@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/cherangovindharaj/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/cherangovindharaj/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/cherangovindharaj/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/cherangovindharaj/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
