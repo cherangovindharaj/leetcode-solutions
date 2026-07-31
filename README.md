@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cherangovindharaj/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/cherangovindharaj/leetcode-solutions/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/cherangovindharaj/leetcode-solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/cherangovindharaj/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/cherangovindharaj/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cherangovindharaj/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/cherangovindharaj/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/cherangovindharaj/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
